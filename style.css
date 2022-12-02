@@ -1,0 +1,41 @@
+body{background-color:#673147;}
+
+h1{
+  font-size: 60px;
+  margin: 0px;
+  color:black;
+}
+h2{
+
+  color:black;
+}
+p{
+
+  color:black;
+}
+.lista{
+  text-align: center;
+}
+
+.input{
+    padding-bottom: 30px;
+}
+
+.container{
+ background-color:#008b8b;
+
+  border-radius: 15px;
+  margin-top:20px ;
+  margin-right: 20% ;
+  margin-left: 20%;
+  padding-bottom: 30px;
+}
+
+li{
+  list-style-type: "- ";
+  color:black;
+  font-size: 40px;
+  text-align: left;
+
+  margin-left: 26%;
+}
